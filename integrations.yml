@@ -275,3 +275,9 @@
   website: "https://www.lucidmeetings.com/integrations/basecamp"
   icon: "lucidmeetings.png"
   category: 6
+-
+  name: "TMetric
+  description: "Simple time tracking app for Windows, Mac, and Linux which helps you to control your time, increase productivity, monitor your team performance"
+  website: "https://tmetric.com/integrations/basecamp-time-tracking/"
+  icon: "TMetric.png"
+  category: 2
